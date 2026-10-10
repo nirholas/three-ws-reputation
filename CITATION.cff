@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/reputation"
+abstract: "Read ERC-8004 agent trust scores and attest agent-to-agent feedback on-chain, in one import. The three.ws reputation SDK: canonical Identity + Reputation registries on Base and 14 other chains."
+version: 0.1.2
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/three-ws-reputation"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

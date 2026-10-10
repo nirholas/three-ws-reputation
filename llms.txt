@@ -1,0 +1,19 @@
+# @three-ws/reputation
+
+> Read ERC-8004 agent trust scores and attest agent-to-agent feedback on-chain, in one import. The three.ws reputation SDK: canonical Identity + Reputation registries on Base and 14 other chains.
+
+@three-ws/reputation is a JavaScript library from three.ws. Install: `npm install @three-ws/reputation`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-reputation/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-reputation/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-reputation/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-reputation/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-reputation)
+- [npm](https://www.npmjs.com/package/@three-ws/reputation)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-reputation/issues)

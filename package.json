@@ -1,0 +1,55 @@
+{
+	"name": "@three-ws/reputation",
+	"version": "0.1.2",
+	"description": "Read ERC-8004 agent trust scores and attest agent-to-agent feedback on-chain, in one import. The three.ws reputation SDK: canonical Identity + Reputation registries on Base and 14 other chains.",
+	"type": "module",
+	"main": "./src/index.js",
+	"module": "./src/index.js",
+	"types": "./src/index.d.ts",
+	"exports": {
+		".": {
+			"types": "./src/index.d.ts",
+			"import": "./src/index.js",
+			"default": "./src/index.js"
+		},
+		"./package.json": "./package.json"
+	},
+	"files": [
+		"src",
+		"README.md",
+		"LICENSE"
+	],
+	"scripts": {
+		"test": "node --test test/*.test.js"
+	},
+	"keywords": [
+		"erc-8004",
+		"erc8004",
+		"agent-reputation",
+		"trust-score",
+		"attestation",
+		"identity-registry",
+		"reputation-registry",
+		"onchain",
+		"agents",
+		"three.ws",
+		"ai-agents"
+	],
+	"author": "nirholas <support@three.ws>",
+	"license": "Apache-2.0",
+	"homepage": "https://nirholas.github.io/three-ws-reputation/",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nirholas/three-ws-reputation.git"
+	},
+	"bugs": {
+		"url": "https://github.com/nirholas/three-ws-reputation/issues"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"dependencies": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
