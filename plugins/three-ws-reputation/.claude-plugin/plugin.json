@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/three-ws-reputation",
+  "homepage": "https://nirholas.github.io/three-ws-reputation/",
   "license": "Apache-2.0",
   "keywords": [
     "erc-8004",
@@ -13,6 +14,5 @@
     "trust-score",
     "attestation",
     "three-ws"
-  ],
-  "homepage": "https://nirholas.github.io/three-ws-reputation/"
+  ]
 }
